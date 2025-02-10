@@ -8,7 +8,7 @@ Aqui você vai encontrar projetos criados com boas doses de código, criatividad
 ## 🚀 **Destaques Imperdíveis:**  
 
 ### 🎮 [Jogo do Número Secreto](https://franasc07.github.io/Jogo-do-Numero-Secret/)  
-Adivinhe o número certo... ou fique tentando pra sempre 😅.  
+Adivinhe o número certo... a intenção é essa 😅.  
 **Tecnologias:** HTML, CSS e JavaScript  
 
 ### 🎲 [Jogo Amigo Secreto](https://franasc07.github.io/Jogo-Amigo-Secreto/)  
