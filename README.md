@@ -15,11 +15,6 @@ Adivinhe o número certo... a intenção é essa 😅.
 Chega de papelzinho amassado! Sorteie seu amigo secreto com estilo 🎁.  
 **Tecnologias:** HTML, CSS e JavaScript  
 
-### 🛍️ [Loja de Roupas Online](https://franasc07.github.io/Loja_de_Roupas/)  
-Moda acessível na ponta do clique 🧥👖!  
-**Tecnologias:** HTML, CSS e um toque especial de design  
-
----
 
 ## ⚙️ **O que rola por aqui:**  
 - Interfaces simples e funcionais 🎯  
